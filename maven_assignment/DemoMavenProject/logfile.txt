@@ -1,0 +1,45 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< ToolsQA:DemoMavenProject >----------------------
+[INFO] Building DemoMavenProject 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ DemoMavenProject ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\Users\ajju\Desktop\pjp2.0\pjp2.0_assignments\pjp2.0_week2\maven_assignment\DemoMavenProject\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ DemoMavenProject ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ DemoMavenProject ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\Users\ajju\Desktop\pjp2.0\pjp2.0_assignments\pjp2.0_week2\maven_assignment\DemoMavenProject\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ DemoMavenProject ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ DemoMavenProject ---
+[INFO] Surefire report directory: C:\Users\ajju\Desktop\pjp2.0\pjp2.0_assignments\pjp2.0_week2\maven_assignment\DemoMavenProject\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running ToolsQA.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 sec
+
+Results :
+
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ DemoMavenProject ---
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ DemoMavenProject ---
+[INFO] Installing C:\Users\ajju\Desktop\pjp2.0\pjp2.0_assignments\pjp2.0_week2\maven_assignment\DemoMavenProject\target\DemoMavenProject-1.0-SNAPSHOT.jar to C:\Users\ajju\.m2\repository\ToolsQA\DemoMavenProject\1.0-SNAPSHOT\DemoMavenProject-1.0-SNAPSHOT.jar
+[INFO] Installing C:\Users\ajju\Desktop\pjp2.0\pjp2.0_assignments\pjp2.0_week2\maven_assignment\DemoMavenProject\pom.xml to C:\Users\ajju\.m2\repository\ToolsQA\DemoMavenProject\1.0-SNAPSHOT\DemoMavenProject-1.0-SNAPSHOT.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.409 s
+[INFO] Finished at: 2020-09-01T23:10:02+05:30
+[INFO] ------------------------------------------------------------------------

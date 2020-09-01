@@ -1,0 +1,21 @@
+ClientId  Transaction Date  Priority  Processing Fee  Transaction Type
+AP     	  11/19/2013	 		Y	 		500         DEPOSIT
+AP     	  11/25/2013	 		Y	 		510         SELL
+AP     	  11/25/2013	 		Y	 		510         BUY
+AP     	  10/25/2013	 		Y	 		500         BUY
+AP     	  11/23/2013	 		Y	 		500         DEPOSIT
+AP     	  10/27/2013	 		Y	 		500         BUY
+AS     	  11/20/2013	 		N	 		100         SELL
+AS     	  11/26/2013	 		N	 		60         BUY
+AS     	  11/26/2013	 		N	 		110         SELL
+AS     	  11/30/2013	 		N	 		50         DEPOSIT
+AS     	  10/29/2013	 		N	 		100         SELL
+AS     	  11/26/2013	 		N	 		100         SELL
+GS     	  11/23/2013	 		Y	 		500         BUY
+GS     	  11/26/2013	 		Y	 		500         WITHDRAW
+GS     	  11/22/2013	 		Y	 		500         DEPOSIT
+GS     	  11/29/2013	 		Y	 		500         WITHDRAW
+GS     	  10/26/2013	 		Y	 		500         WITHDRAW
+GS     	  12/26/2013	 		Y	 		500         BUY
+HJ     	  11/30/2013	 		N	 		100         WITHDRAW
+HJ     	  12/28/2013	 		N	 		100         SELL
